@@ -1,3 +1,3 @@
 ### Hello there 👋
 
-interested in CS 
+EECS Student @ UC Berkeley 
